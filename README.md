@@ -1,5 +1,5 @@
 # Project-Analizyng-International-Debt-Statistics-
-Projeto de análise de dados com SQL
+Projeto de análise de dados com SQL - Plataforma Data Camp
 
 ## Descrição do Projeto : 
 
